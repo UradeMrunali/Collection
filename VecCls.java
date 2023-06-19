@@ -1,6 +1,5 @@
 import java.util.LinkedList;
 import java.util.Vector;
-
 public class VecCls {
   public static void main(String[] args) {
 	
