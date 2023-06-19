@@ -15,6 +15,5 @@ public class VecCls {
 		a.addElement('h');
 		System.out.println(a.size());
 		System.out.println(a.capacity());
-	
 }
 }
