@@ -4,7 +4,6 @@ public class VecCls {
   public static void main(String[] args) {
 	
 	 Vector a=new Vector(5,3);
-		
 		a.addElement(50);
 		a.addElement("by");
 		a.addElement('h');
